@@ -1,4 +1,4 @@
-# simple-node
+# node-skeleton -- A basic nodejs example server
 
 A skeleton application for testing k8s, docker, etc.
 
