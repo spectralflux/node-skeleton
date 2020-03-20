@@ -18,4 +18,4 @@ Deploy with:
 
 `kubectl apply -f simple-node-pod.yaml`
 
-The image field must be properly set to an image accessible to your k8s cluster (like in GCR or similar).
+The image field in `simple-node-pod.yaml` must be properly set to an image accessible to your k8s cluster (like in GCR or similar).
